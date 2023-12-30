@@ -34,7 +34,7 @@ Object Detection을 활용한 자동차 운전자 이상행동탐지 딥러닝 �
 우선 각 데이터의 형태는 Image Sequence이었고, 본 프로젝트의 목적에 맞게 각 데이터에 대해서 **전처리**를 수행하였다. **졸음운전 예방을 위한 운전자 상태 정보 영상 데이터셋**의 경우, x,y 좌표가 이미지 범위를 초과하는 경우가 일부 존재하여, **w,h 이미지 범위 내로 조정 후 scaling**을 진행하였다. **운전자 및 탑승자 상태 및 이상행동 모니터링 데이터셋**의 경우, 필요한 정보만 추출하여 학습에 사용하였고, 기존 비디오 정보 중, **졸음 운전, 휴대폰 조작을 이상행동**으로 정의하였고, 이상행동과 정상행동으로 분류 및 라벨링하여 이상행동탐지에 활용하였다.  
 
 ![화면 캡처 2023-12-30 215149](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/0fa4128e-3f12-40a5-b0ef-493cdc49bb33)  
-모델 학습의 경우, Detection task에서 SOTA를 달성한 YOLOv8을 채택하였고, Train:Test = 8:2로 나누어 학습을 진행하였다. 진행한 결과는 5.에서 확인할 수 있다. 비교적 Detection을 하기 쉬운 datasets으로 구성되어 있어, epoch을 10로만 해도 성능이 월등히 잘 나올 수 있었던 것 같다. Inference의 경우, 한 이미지당 30초 내외로 결과가 나오는 것 또한 확인할 수 있었다.  
+모델 학습의 경우, Detection task에서 **SOTA를 달성한 YOLOv8**을 채택하였고, **Train:Test = 8:2** 로 나누어 학습을 진행하였다. 진행한 결과는 5.에서 확인할 수 있다. 비교적 Detection을 하기 쉬운 datasets으로 구성되어 있어, **epoch을 10**로만 해도 성능이 월등히 잘 나올 수 있었던 것 같다. Inference의 경우, 한 이미지당 **30초 내외**로 결과가 나오는 것 또한 확인할 수 있었다.  
 
 ![55](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/c1936b40-cb0d-4f56-87fe-59937d2ed116)|![66](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/700cc1d5-d2e0-44d1-8f1c-c78d614027ac)
 ---|---|
