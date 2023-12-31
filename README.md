@@ -55,12 +55,12 @@ Object Detection을 활용한 자동차 운전자 이상행동탐지 딥러닝 �
 ![66](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/531eef24-33ad-4c22-a87b-2f2a8f96cfc2)
 
 
-## 6. Contribution 및 발전 방향
+## 6. Contribution 및 발전 방향    
 
-<Contribution>        
+<시사점>   
 - 졸음 운전 판단 시 몸/얼굴 Bbox (두 가지 정보) 활용    
-- Detection 모델을 활용한 운전자 모니터링 시스템 방안 제안      
-  
+- Detection 모델을 활용한 운전자 모니터링 시스템 방안 제안  
+
 <발전 방향>     
 - 영상 데이터 2종류 모두 확보하지 못하여 영상 → 이미지 시퀀스 → 이미지 단위 처리 진행  
     - 영상 단위 처리를 통한 실시간성 확보  
