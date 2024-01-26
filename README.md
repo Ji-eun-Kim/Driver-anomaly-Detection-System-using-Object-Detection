@@ -79,3 +79,8 @@ Object Detection을 활용한 자동차 운전자 이상행동탐지 딥러닝 �
 - PPT 제작  
   
 <br/>
+
+
+## 8. 발표 자료
+
+https://drive.google.com/file/d/1KdXlEvLr6ixGDgle1ipbMQzmSQOHLBeK/view?usp=drive_link
