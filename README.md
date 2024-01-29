@@ -1,9 +1,10 @@
 <h2 align='center'> Object Detection을 활용한 자동차 운전자 이상행동탐지 
-<h3 align="center"> [전공] 비전AI와비지니스 (2023.11. ~ 2023.12.) </h3>  
+<h3 align="center"> [전공] 비전AI와비지니스 Project </h3>  
+<h4 align='center'> (2023.11. ~ 2023.12.) </h4>  
+<br/>
 
 ![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
-<br/>
 
 ## 1. 배경 및 목적
 
