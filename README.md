@@ -77,10 +77,10 @@ Object Detection을 활용한 자동차 운전자 이상행동탐지 딥러닝 �
 - 전공생 3명    
 
 <담당 역할>    
-- 전반적인 프로젝트 흐름 설계    
-- YOLOv8 custom dataset preprocessing    
-- YOLOv8 training      
-- PPT 제작  
+- 운전자 이상행동 데이터 셋 전처리
+- YOLOv8 모델 학습 및 최적화 
+- 운전자 이상행동 기준 아이디어 제시
+- 전반적인 흐름 설계
   
 <br/>
 
