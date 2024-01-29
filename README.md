@@ -1,4 +1,7 @@
-## Object Detection을 활용한 자동차 운전자 이상행동탐지
+<h2 align='center'> Object Detection을 활용한 자동차 운전자 이상행동탐지 
+<h3 align="center"> [전공] 비전AI와비지니스 (2023.11. ~ 2023.12.) </h3>  
+
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
 <br/>
 
