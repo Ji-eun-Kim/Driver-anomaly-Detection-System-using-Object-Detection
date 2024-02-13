@@ -49,14 +49,14 @@ Object Detection을 활용한 자동차 운전자 이상행동탐지 딥러닝 �
 
 <br/>
 
-## 5. 결과  
+<!-- ## 5. 결과  
 ![Untitled](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/c61dd550-80b9-4991-9cea-966e43ff5317)|![222](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/35efccc5-d388-4b15-bc58-873487d4c992)
 ---|---|
 
 ![3333](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/72dde112-4e84-4dc5-b0fc-4ff14821cbde) | ![444](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/1808cd96-b3db-4ca9-a36e-df983c6b4d19)
 ---|---|
 
-![66](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/531eef24-33ad-4c22-a87b-2f2a8f96cfc2)
+![66](https://github.com/Ji-eun-Kim/VisionAI_project/assets/124686375/531eef24-33ad-4c22-a87b-2f2a8f96cfc2)-->
 
 
 ## 6. Contribution 및 발전 방향    
